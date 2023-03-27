@@ -1,0 +1,21 @@
+body{
+    position: relative;
+}
+.btn{
+    display: inline-block;
+    align-items: center;
+    color: #fff;
+    font-size: 1.5em;
+    border-radius: 5px;
+    text-decoration: none;
+    background: #e02020;
+    box-shadow: 0 3px #a01616;
+    position: relative;
+    display: inline-block;
+    top:-2px;
+    padding: 10px 20px;
+}
+.btn:hover{
+    box-shadow: 0 1px #a01616;
+    top:1px;
+}
